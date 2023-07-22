@@ -1,0 +1,1 @@
+# satisfatibilidade-deutsch
